@@ -1,0 +1,12 @@
+.wrapper h3{
+animation: time 1s linear infinite;
+
+}
+
+@keyframes time {
+    50% {
+    transform: scale(0.9);
+    opacity: 0.5;
+}
+    
+}
